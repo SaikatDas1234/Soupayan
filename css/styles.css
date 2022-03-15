@@ -1,0 +1,67 @@
+body{
+  text-align: center;
+  background-color: #332FD0;
+  color: White;
+  background-image: url("https://media4.giphy.com/media/FMsbSSjEe0N6zH7K7x/200w.webp?cid=ecf05e47yaod3c554phz0x3as8r5brtku9r8d4qbgjwegg1u&rid=200w.webp&ct=g");
+  background-repeat: no-repeat;
+  background-size: 2000px 4000px;
+}
+a{
+  text-decoration: none;
+  font-family: 'Montserrat',cursive;
+  color: white;
+  font-size: 1.5em;
+  position: relative;
+  top: 2em;
+  text-align: center;
+}
+#avataar{
+  height: 3em;
+  width: 3em;
+  border-radius: 10%;
+  border-style: solid;
+  border-width: 7px;
+  left: 2em;
+  top:1.5em;
+  position: fixed;
+}
+.page{
+  background-color: #E15FED;
+  height: 50em;
+  width: 60em;
+  border-style: solid;
+  border-color: White;
+  border-width: 5px;
+  border-radius: 3%;
+  margin: 2em;
+  margin-bottom: 0em;
+  margin-left: 20em;
+  padding: 1em;
+  position: relative;
+  background-image: url("https://thumbs.gfycat.com/CarelessTenseJunco-size_restricted.gif");
+  background-repeat: no-repeat;
+  background-size: 1000px 1000px;
+}
+.intro{
+  text-align: center;
+  margin-top: 30px ;
+  font-family: 'Sacramento', cursive;
+  font-size: 8rem;
+  margin-bottom: 0px;
+}
+.introdesc{
+  margin-top: 0px;
+  font-family: 'Montserrat',cursive;
+  margin-bottom: 0px;
+  border-bottom: 0px;
+}
+#A1{
+  background-image: url("http://schools.thelearningpoint.net/pics-cbse/schoolPic08418.JPG");
+  background-repeat: no-repeat;
+  background-size: 1000px 1000px;
+}
+#A2{
+  background-image: image("https://st2.indiarailinfo.com/kjfdsuiemjvcya0/0/1/4/1/605141/14932269/newgaria.jpg");
+  background-repeat: no-repeat;
+  background-size: 1000px 1000px;
+}
